@@ -140,7 +140,7 @@ Computer Science Student | Machine Learning Enthusiast
 
 Kaggle Notebook: (https://www.kaggle.com/code/pratikdeshmukh212121/neural-network-from-scratch)
 
-GitHub: (your GitHub profile)
+GitHub: (https://github.com/pratikdeshmukh21)
 
 📌 Project Status
 
